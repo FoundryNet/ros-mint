@@ -1,0 +1,3 @@
+[console_scripts]
+mint_settler = mint_ros.settler:main
+

@@ -1,0 +1,3 @@
+setuptools
+solana>=0.30.0
+solders>=0.18.0
