@@ -17,7 +17,7 @@ setup(
     ],
     zip_safe=True,
     maintainer='FoundryNet',
-    maintainer_email='hello@foundrynet.io',
+    maintainer_email='forge@foundrynet.io',
     description='MINT Protocol integration for ROS 2 - Earn MINT tokens for robot work',
     license='MIT',
     tests_require=['pytest'],

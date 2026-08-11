@@ -5,13 +5,13 @@
   <version>1.0.0</version>
   <description>MINT Protocol integration for ROS 2 - Earn MINT tokens for robot work</description>
   
-  <maintainer email="hello@foundrynet.io">FoundryNet</maintainer>
+  <maintainer email="forge@foundrynet.io">FoundryNet</maintainer>
   <license>MIT</license>
   
   <url type="website">https://github.com/foundrynet</url>
   <url type="repository">https://github.com/foundrynet/mint-ros</url>
   
-  <author email="hello@foundrynet.io">FoundryNet</author>
+  <author email="forge@foundrynet.io">FoundryNet</author>
 
   <buildtool_depend>ament_python</buildtool_depend>
   
